@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nafees</h1>
 <h3 align="center">An Erasmus awardee pursuing Master's in Intelligent Field Robotics System at University of Girona, Spain.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nafbz" alt="nafbz" /></a> </p>
 
 - 🌱 I’m currently learning **ROS, Computer Vision, Deep Learning.**
 
