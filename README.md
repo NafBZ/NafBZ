@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nafees</h1>
-<h3 align="center">An Erasmus awardee pursuing Master's in Intelligent Field Robotics System at University of Girona, Spain.</h3>
+<h3 align="center">An Erasmus awardee pursuing Master's in Intelligent Field Robotics System at University of Girona, Spain and University of Zagreb, Croatia.</h3>
 
 
 - 🌱 I’m currently learning **ROS, Computer Vision, Deep Learning.**
