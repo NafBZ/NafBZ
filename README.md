@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, Travelling in Europe**
 
-- 📫 Reach me through **zamannafees@gmail.com**
+- 📫 Reach me through **mohammad.zaman@fer.hr**
 
 - ⚡ Fun fact: **Madridista**
 
