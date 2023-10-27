@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nafees</h1>
 <h3 align="center">By profession, I talk to Robots and attempt to figure out how they see me</h3>
-<h4 align="center">Paltech GmBH.</h4>
 
 
-- 🌱 I’m currently learning **ROS2, PX4, QGroundControl.**
+- 🌱 I’m currently learning **ROS2, Ardupilot, Angular, Django.**
 
 - 💬 Ask me about **Python, Deep Learning, Travelling in Europe**
 
