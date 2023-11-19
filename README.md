@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, Deep Learning, Travelling in Europe**
 
-- 📫 Reach me through **nafees.zaman@paltech.eu**
+- 📫 Reach me through **zamannafees@gmail.com**
 
 - ⚡ Fun fact: **Madridista**
 
