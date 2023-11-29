@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nafees</h1>
-<h3 align="center">By profession, I talk to Robots and attempt to figure out how they see me</h3>
+<h3 align="center">By profession, I talk to Robots and attempt to figure out how they see me; by nature, I like to talk about deep learning with my fellow humans</h3>
 
 ![](https://komarev.com/ghpvc/?username=NafBZ&color=brightgreen)
 
-- 🌱 I’m currently learning **ROS2, Ardupilot, Angular, Django.**
+- 🌱 I’m currently learning **React, Three.js.**
 
 - 💬 Ask me about **Python, Deep Learning, Travelling in Europe**
 
@@ -26,7 +26,7 @@
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
  <a href="https:https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="dj" width="40" height="40"/> </a>
-  <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40"/> </a>
+<!--   <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40"/> </a> -->
   <a href="https://developer.android.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="andriodStudio" width="40" height="40"/> </a>
   <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
@@ -38,7 +38,7 @@
   <a href="http://qgroundcontrol.com/" target="_blank" rel="noreferrer"> <img src="/resources/qgc.png" alt="QGC" width="40" height="40"/> </a>
    <a href="https://docs.px4.io/main/en/" target="_blank" rel="noreferrer"> <img src="/resources/px.svg" alt="PX4" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="pg" width="40" height="40"/> </a>
+<!--   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="pg" width="40" height="40"/> </a> -->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
