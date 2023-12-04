@@ -3,9 +3,9 @@
 
 ![](https://komarev.com/ghpvc/?username=NafBZ&color=brightgreen)
 
-- 🌱 I’m currently learning **React, Three.js.**
+- 🌱 I’m currently learning **React, Node, Three.js.**
 
-- 💬 Ask me about **Python, Deep Learning, Travelling in Europe**
+- 💬 Ask me about **Travelling in Europe**
 
 - 📫 Reach me through **zamannafees@gmail.com**
 
