@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=NafBZ&color=brightgreen)
 
-- 🌱 I’m currently learning **React, Node, Three.js.**
+- 🌱 I’m currently learning **React, Flutter, Three.js.**
 
 - 💬 Ask me about **Travelling in Europe**
 
