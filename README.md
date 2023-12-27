@@ -51,3 +51,8 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NafBZ&layout=compact&langs_count=8&card_width=320&theme=catppuccin_latte" />
 </a>
 
+<br><br/>
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NafBZ&repo=Stereo-Visual-Odometry&theme=catppuccin_latte)](https://github.com/NafBZ/Stereo-Visual-Odometry)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NafBZ&repo=OccupancyGridMap&theme=catppuccin_latte)](https://github.com/NafBZ/OccupancyGridMap)
