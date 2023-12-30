@@ -53,6 +53,7 @@
 
 <br><br/>
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NafBZ&repo=Flutter-Apps&theme=catppuccin_latte)](https://github.com/NafBZ/Flutter-Apps)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NafBZ&repo=Stereo-Visual-Odometry&theme=catppuccin_latte)](https://github.com/NafBZ/Stereo-Visual-Odometry)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NafBZ&repo=react-projects&theme=catppuccin_latte)](https://github.com/NafBZ/react-projects)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NafBZ&repo=OccupancyGridMap&theme=catppuccin_latte)](https://github.com/NafBZ/OccupancyGridMap)
