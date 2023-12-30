@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nafees</h1>
-<h3 align="center">By profession, I talk to Robots and attempt to figure out how they see me; by nature, I like to talk about deep learning with my fellow humans</h3>
+<h4 align="center">By profession, I talk to Robots and attempt to figure out how they see me; by nature, I like to talk about Software Engineering and Deep Learning with my fellow humans</h4>
 
 ![](https://komarev.com/ghpvc/?username=NafBZ&color=brightgreen)
 
@@ -56,3 +56,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NafBZ&repo=Flutter-Apps&theme=catppuccin_latte)](https://github.com/NafBZ/Flutter-Apps)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NafBZ&repo=Stereo-Visual-Odometry&theme=catppuccin_latte)](https://github.com/NafBZ/Stereo-Visual-Odometry)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NafBZ&repo=OccupancyGridMap&theme=catppuccin_latte)](https://github.com/NafBZ/OccupancyGridMap)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NafBZ&repo=react-projects&theme=catppuccin_latte)](https://github.com/NafBZ/react-projects)
